@@ -3,9 +3,6 @@
 
 ---
 
-<img src="https://img.shields.io/static/v1?=Project Developed&message=Rocketseat&color=7159c1&style=<STYLE>&logo=<LOGO>" /><br>
-
-
 ### 🚀 Technologies:
 
 - sass
