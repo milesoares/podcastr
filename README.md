@@ -2,7 +2,6 @@
 <p>  < NLW/> Edição #05 </p>
 
 ---
-
 ### 🚀 Technologies:
 
 - sass
@@ -15,6 +14,5 @@
  - Install dependencies with `yarn`. 
  - Start the server with `yarn dev`.
  - Access `http://localhost:3000` in your browser.
-
 ---
 Coded by Milena Soares
